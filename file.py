@@ -1,2 +1,3 @@
 
-print("hello repo");
+print("hello repo")
+print("git tuto")
